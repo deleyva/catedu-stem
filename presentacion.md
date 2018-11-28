@@ -72,7 +72,7 @@ Note: Enseño el moodle, voy al curso de Arduino con código y muestro los mater
 * Support for courses carried out by other Teachers Trainning Centers.
 * 171.793 total visits (from september to 21st june)
 * 11.222 unique visits (from september to 21st june)
-* 2.867 descargas (from september to 21st june)
+* 2.867 downloads (from september to 21st june)
 * 4.222 pages in 87 libros
 
 ---
