@@ -19,7 +19,7 @@ revealOptions:
 
 ### What does CATEDU offer?
 
-* Online learning resources and platform, for teachers (and for those who ever might be interested)
+* Online learning platform and resources for teachers (and for those who ever might be interested)
 * Services and support for teachers
 * Organization of the ICT Advisors seminar
 
