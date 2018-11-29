@@ -146,5 +146,5 @@ Note: Enseño el moodle, voy al curso de Arduino con código y muestro los mater
 
 ---
 
-<img class="plain"  src="img/Educacion_color.gif"/>
-<img class="plain"  src="img/catedulogo.png"/>
+[<img class="plain"  src="img/Educacion_color.gif"/>](http://www.educaragon.org/)
+[<img class="plain"  src="img/catedulogo.png"/>](http://web.catedu.es/webcatedu/)
